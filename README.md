@@ -1,5 +1,5 @@
 # 智能手机榜单 
-- 传送门 http://zrank.top
+- <http://zrank.top>
 
 ## 骁龙8Gen3旗舰机榜
 - [🔗 京东榜单](https://jingfen.jd.com/item?_blank&u_act_p=union-activity&union_page_id=261786&utm_campaign=t_1001147581)
