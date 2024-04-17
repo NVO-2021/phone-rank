@@ -111,6 +111,7 @@
 ---
 
 [![](https://i2.hdslb.com/bfs/archive/a6824823e5a58827cc2de8ecc08aa601bc04e941.jpg@672w_378h_1c_!web-search-common-cover.avif)](https://www.bilibili.com/video/BV1Fb4y1T7hR/?spm_id_from=333.337.search-card.all.click)
+
 [🔼 钟文泽开箱](https://www.bilibili.com/video/BV1Fb4y1T7hR/?spm_id_from=333.337.search-card.all.click)
 
 > **AI摘要**
@@ -138,6 +139,4 @@
 > 🔓 一加12应该成为一款拥有差异化的重装战士
 > 💡 一加12和Find系列可以采用双旗舰策略
 
-## 高性能游戏手机榜单
-
-## 性价比长续航千元机榜
+---
