@@ -6,7 +6,7 @@
 
 ## 🌟 小米14/14Pro系列
 
-[![](https://i0.hdslb.com/bfs/archive/2d87d01dd71b375c4cb07da3e1426a992095c54a.jpg@672w_378h_1c_!web-search-common-cover.avif)](https://player.bilibili.com/player.html?_blank&aid=235003754&bvid=BV1me411R7Ha&cid=1311287114&p=1)
+[![](https://i0.hdslb.com/bfs/archive/2d87d01dd71b375c4cb07da3e1426a992095c54a.jpg@672w_378h_1c_!web-search-common-cover.avif)](https://www.bilibili.com/video/BV1me411R7Ha/?spm_id_from=333.337.search-card.all.click)
 🔼 极客湾性能评测
 
 ---
