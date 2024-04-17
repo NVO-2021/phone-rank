@@ -12,12 +12,12 @@
 ---
 
 [![](https://i1.hdslb.com/bfs/archive/7128b11926e000e11f86600da720f726ccaf7131.jpg@672w_378h_1c_!web-search-common-cover.avif)](https://www.bilibili.com/video/BV1nu4y1Y7XZ/)
-  **🔼 小白评测**
+🔼 小白评测
 
  ---
 
    [![](https://i2.hdslb.com/bfs/archive/61ebab63b9049d1c7f30f85ab2045741da16f389.jpg@672w_378h_1c_!web-search-common-cover)](https://www.bilibili.com/video/BV1ka4y1S7EC)
-**🔼 花生说**
+🔼 花生说
 
 ## 高性能游戏手机榜单
 
