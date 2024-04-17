@@ -6,7 +6,7 @@
 
 - 🌟 小米14系列
     - 极客湾评测
-      [![Alt text](https://i0.hdslb.com/bfs/archive/2d87d01dd71b375c4cb07da3e1426a992095c54a.jpg)](https://player.bilibili.com/player.html?aid=235003754&bvid=BV1me411R7Ha&cid=1311287114&p=1)
+      [![](https://i0.hdslb.com/bfs/archive/2d87d01dd71b375c4cb07da3e1426a992095c54a.jpg)](https://player.bilibili.com/player.html?aid=235003754&bvid=BV1me411R7Ha&cid=1311287114&p=1)
    
 
 ## 高性能游戏手机榜单
