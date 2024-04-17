@@ -10,11 +10,37 @@
 
 [🔼 极客湾性能评测](https://www.bilibili.com/video/BV1me411R7Ha/?spm_id_from=333.337.search-card.all.click)
 
+> **AI总结：**
+> 高通骁龙8×3处理器采用了全新的ARM V9.2指令集架构,是高通第一颗纯64位的手机芯片,可以完全取代32位。处理器采用了1+5+2的核心配置,超大核频率可达3.3GHz,大核频率最高3.15GHz,小核则为2.27GHz。这是相比上一代的大幅度提升。
+>
+> **核心点如下：**
+ > -  骁龙8×3的CPU部分变化非常大,包括全面的64位化以及核心布置的调整。总的来说,这些变化都大幅提升了CPU的性能。
+ > - 评测了小米14手机搭载的骁龙8×3处理器。总体性能很强,单核性能虽然还略低于苹果X4,但已经非常出色了。GPU性能提升20%,功耗也更低。在游戏体验方面,小米14表现非常流畅,能够全程流畅运行原神等游戏。
+ > - 小米14相比小米13在性能和散热方面都有改进,功耗更低,性能更好。不过iPhone 17 Pro在能效方面依然优于小米14,但小米14的散热设计相当不错,可以解决6.2瓦的持续发热。
+
 ---
 
 [![](https://i1.hdslb.com/bfs/archive/7128b11926e000e11f86600da720f726ccaf7131.jpg@672w_378h_1c_!web-search-common-cover.avif)](https://www.bilibili.com/video/BV1nu4y1Y7XZ/)
 
 [🔼 小白评测](https://www.bilibili.com/video/BV1nu4y1Y7XZ/)
+
+> **AI总结：**
+> #### 外观、配件和屏幕
+> - 对小米 14 和 14 Pro 的外观设计、配件和屏幕进行了全面介绍
+> - 14 Pro 采用四曲屏设计，给人一种往外顶的感觉
+> - 14 Pro 配备 120W 充电器
+>
+> #### 性能和续航
+> - 使用了龙晶玻璃,更耐摔、耐磨
+> - 14 Pro 性能提升约 30%,GPU 提升相当猛
+> - 14 Pro 支持 120W 快充,可在 50 分钟内完全充满
+>
+> #### 拍照和系统
+> - 14 Pro 在夜景和长焦拍摄方面的表现略优于 14
+> - 14 Pro 的多摄白平衡一致性进步很大
+> - 14 Pro 录像环节的收音表现稳定
+> - 新系统澎湃 OS 有不少改进,包括动效、界面和 AI 等方面
+> - 全系标配 IP68 防水防尘和 USB 3.2 接口
 
  ---
 
@@ -22,7 +48,17 @@
 
 [🔼 花生说](https://www.bilibili.com/video/BV1ka4y1S7EC)
 
+> **AI总结：**
+> 小米 14 系列手机的销售情况和外观材质、性能等方面的评测。重点讨论了小米 14 Pro 与小米 13 Pro 的差异和优劣,以及小米 14 Pro 的选材和性能表现。视频认为小米 14 Pro 的设计少了些高端感,多了些务实感,但在性能和散热方面有较大提升。同时,视频也提到了小米 14 Pro 的 USB 3.2 和支持 64 位应用等特点。总体来说,视频认为小米 14 Pro 是一款不错的手机。
+> 
+> **核心点如下:**
+> 1. 小米 14 系列手机的开售情况和与小米 13 Pro 的比较,包括手机的选材、外观、性能等方面,以及评价。
+> 2. 小米 14 Pro 手机的性能、屏幕、相机、扬声器等方面的升级与改进,以及与小米 13 Pro 的对比测试。
+> 3. 小米 14 和 14 Pro 的区别,包括屏幕、相机、玻璃等方面的评测和选择建议。
+> 4. 小米 14 Pro 和 13 Ultra 在拍照方面的比较,分析了它们的优劣势和使用体验。
+
  ---
+
 
 ### [🏦 红魔9 Pro](https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BASUJK1olXDYCVV9cDkwQBGgJGVolGVlaCgFtUQ5SQi0DBUVNGFJeSwJCUx4IUTFUBR1FHlIcEwYJTlRHUSpQRQQbG1ZBACYIBEsWAm4OHFwSWgcAVW5fejZiXThRZz5gL1FGVyAmSAxlXwZoF1clWAYDVF1YDE8QAl8IGloVXQMEUFddOHsXAF9edVsUXAcDVV5VD0snAW8JGlMQXgEEU25dDksVAWgJGl4QXgYHZFldAXvDlsLftfglbTYBZFldAV8RcS5aD11nbTYCZF1tSiVHA2gPTgtCCgcKAFpYCx8TUGYKSVtAXQMBV1lbDEpHBV8KGloRVDYyZF47VRUeYCRvb1xIL3YECSxYDy5JRQcKQTUXOG5BJBpecwljQjtgfzJPIl0yZA)
 
@@ -53,6 +89,8 @@
 > - 🌈 设计细节精致，包含多种光效设计和个性化定制选项。
 > - 🕹 游戏延迟低，内置FC和红外功能，游戏体验更加完善。 
 ---
+### [🏦 一加12](https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BASUJK1olXDYCVV9cDk0XBm4LGVwlGVlaCgFtUQ5SQi0DBUVNGFJeSwJCUx4IUTFUBR1FHlIcEwYJTlRHUSpQRQQbG1ZBACYIBEsWAm4OHVsQXAUAU242cEpTeS0NQzgXIwFfUyUmSBUUUDJOF1clWAYDVF1YDE8TBl8IGloVXQMEUFddOHsXAF9edVsUXAcDVV5VDU0nAW8JGlMQXgEFU25dDksVAWgPHVoUWwQBZFldAXvDlsLftfglbTYBZFldAV8RcS5aD11nbTYCZF1tSiVHA2gPTgtCCgcKAFpYCx8TUGYKSVtAXQMBV1lbDEpHBV8KGloRVDYyZCk2fj4RcWZBYThNOWFyXTUucE5MWm91XjUXOnVrXSEdDDNtBxJMbVxNAV8yZA)
+
 
 ## 高性能游戏手机榜单
 
