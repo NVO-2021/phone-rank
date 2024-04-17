@@ -95,6 +95,7 @@
 ### [🏦 一加12](https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BASUJK1olXDYCVV9cDk0XBm4LGVwlGVlaCgFtUQ5SQi0DBUVNGFJeSwJCUx4IUTFUBR1FHlIcEwYJTlRHUSpQRQQbG1ZBACYIBEsWAm4OHVsQXAUAU242cEpTeS0NQzgXIwFfUyUmSBUUUDJOF1clWAYDVF1YDE8TBl8IGloVXQMEUFddOHsXAF9edVsUXAcDVV5VDU0nAW8JGlMQXgEFU25dDksVAWgPHVoUWwQBZFldAXvDlsLftfglbTYBZFldAV8RcS5aD11nbTYCZF1tSiVHA2gPTgtCCgcKAFpYCx8TUGYKSVtAXQMBV1lbDEpHBV8KGloRVDYyZCk2fj4RcWZBYThNOWFyXTUucE5MWm91XjUXOnVrXSEdDDNtBxJMbVxNAV8yZA)
 
 [![](https://i0.hdslb.com/bfs/archive/63f9ea1b010fc5d68e32ff422a6afbd4a780fd78.jpg@672w_378h_1c_!web-search-common-cover.avif)](https://www.bilibili.com/video/BV1Ec411i7Pp/?spm_id_from=333.337.search-card.all.click)
+
 [🔼 小白评测](https://www.bilibili.com/video/BV1Ec411i7Pp/?spm_id_from=333.337.search-card.all.click)
 
 > **AI总结**
