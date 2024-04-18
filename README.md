@@ -145,10 +145,11 @@
 ## ☕️ 喝杯咖啡
 ### 码字不易，请作者喝杯咖啡吧～ 
 
- <img src="https://s3.pek3b.qingstor.com/zrank-oss/zrank-oss/WechatIMG246.jpg" width = "30%" alt="微信" align=center />
+
 
 ---
 
- <img src="https://s3.pek3b.qingstor.com/zrank-oss/zrank-oss/WechatIMG247.jpg" width = "30%" alt="微信" align=center />
-
+| Alipay      | WeChat Pay |
+| ----------- | ----------- |
+|  <img src="https://s3.pek3b.qingstor.com/zrank-oss/zrank-oss/WechatIMG246.jpg" width = "90%" alt="微信" align=center />      |  <img src="https://s3.pek3b.qingstor.com/zrank-oss/zrank-oss/WechatIMG247.jpg" width = "90%" alt="微信" align=center />       |
 
